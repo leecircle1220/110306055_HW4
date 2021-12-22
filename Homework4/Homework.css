@@ -1,0 +1,36 @@
+.c1{
+	background-color: royalblue;
+	color: #EEEEEE;
+}
+.c2{
+	background-color: darkkhaki;
+	color: #542342;
+}
+.c3{
+	width: 500px;
+	background-color: aquamarine;
+	margin: 0 auto;
+	margin-top:50px ;
+	text-align: center;
+	color: #246576;
+	border: 5px darkorange solid;
+}
+.c4{
+	width: 480px;
+	font-size: 30px;
+}
+.c6{
+	width: 460px;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	border-radius:6px ;
+	font-family: comic sans-serif monospace;
+}
+.c5{
+	width: 480px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+html{
+	background-color: #675677;
+}
